@@ -50,3 +50,9 @@
 - Visitors see read-only version of the card.
 - Footer: "Powered by Ravenkart" with a link to our homepage.
 
+### Projects & Products
+- Users can add projects or products to display in their card.
+- Each entry includes: photo + link.
+- If no link is provided → a short description page with multiple images can be shown.
+- Users can upload short info + photos for this page.
+
