@@ -61,3 +61,12 @@
 - Gradient Ribbon: users can configure ribbon below their profile picture.
 - Options: gradient style, start & end colors, preview.
 
+### My Digital Card
+- Fullscreen responsive layout for mobile.
+- At the top: square profile photo (full width, no border).
+- Below: 30px gradient ribbon.
+- Then: Full Name, Title, Company.
+- Below: Social Media icons.
+- QR codes in a carousel.
+- At the bottom: Projects/Products section.
+
