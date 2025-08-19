@@ -70,3 +70,11 @@
 - QR codes in a carousel.
 - At the bottom: Projects/Products section.
 
+### Card Scanner & Gallery
+- Users can scan other cards via QR.
+- Scanned cards stored in a gallery with folder organization.
+- Cards can be cropped and notes can be added.
+- Stored cards can be exported as PDF (including notes).
+- This page is available only to admins and paid plan users.
+- Modern, minimal design.
+
