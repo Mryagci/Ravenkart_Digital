@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 255 255 255;
+  --foreground: 15 23 42;
+}
+
+.dark {
+  --background: 2 6 23;
+  --foreground: 226 232 240;
+}
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  color: rgb(var(--foreground));
+  background: rgb(var(--background));
+}
+
+.glass {
+  @apply bg-white/60 dark:bg-slate-900/50 backdrop-blur supports-[backdrop-filter]:bg-white/40 border border-white/20 dark:border-white/10;
+}
+
+.gradient-ribbon {
+  background: linear-gradient(90deg, #a855f7 0%, #06b6d4 100%);
+}
+
