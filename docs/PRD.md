@@ -28,3 +28,8 @@
   2. "My Digital Card"
 - Statistics panel showing how many times the QR code was scanned.
 
+### Navbar
+- Transparent, glassmorphism-inspired design.
+- Contains: Home, Language Selector, Logout.
+- Always visible at the top of the app.
+
