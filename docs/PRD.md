@@ -84,3 +84,25 @@
   2. 1efeyagci@gmail.com
 - Full access to all pages and functions.
 
+### Admin Features
+- Admins can bulk-create user accounts via Admin Dashboard.
+- Downloadable Excel template with all fields.
+- Minimum required fields: Full Name, Email, Password.
+- Admin uploads completed file to create multiple accounts at once.
+- Automatically sends onboarding emails.
+- Admin can view upload history (date, user count).
+- Admin can directly access user profiles.
+- Admins can edit user cards if necessary.
+- Admins can bulk download all data.
+
+### Subscriptions & Plans
+- Plans:
+  1. Free Plan → Limited access: profile photo, name, surname, phone only.
+  2. Pro Plan → $2.5/month per user. Full access.
+  3. Enterprise Plan → Flexible pricing, contact us. Includes bulk user management and full analytics.
+
+- Payment system must auto-charge monthly.
+- When users without permission access a restricted page, a popup shows available plans.
+- Enterprise admins can add multiple users and pay per seat.
+- Super Admins can view all subscriptions and admin activities.
+
