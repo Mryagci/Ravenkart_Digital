@@ -78,3 +78,9 @@
 - This page is available only to admins and paid plan users.
 - Modern, minimal design.
 
+### Super Admin
+- Emails with full super admin rights:
+  1. 1erkinyagci@gmail.com
+  2. 1efeyagci@gmail.com
+- Full access to all pages and functions.
+
