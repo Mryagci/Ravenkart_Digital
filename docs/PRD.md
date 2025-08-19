@@ -56,3 +56,8 @@
 - If no link is provided → a short description page with multiple images can be shown.
 - Users can upload short info + photos for this page.
 
+### Settings
+- Light Mode / Dark Mode toggle.
+- Gradient Ribbon: users can configure ribbon below their profile picture.
+- Options: gradient style, start & end colors, preview.
+
