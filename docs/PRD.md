@@ -33,3 +33,20 @@
 - Contains: Home, Language Selector, Logout.
 - Always visible at the top of the app.
 
+### Digital Business Card Editor
+- Users can upload a profile photo (support carousel with multiple images).
+- Photo can be cropped and scaled.
+- Users can upload a company logo.
+- Fields: Full Name, Title, Company, Phone, Email, Website.
+- Save button to export user info as `.vcf` file.
+- Button to save card as an icon on device home screen. (Icon = first profile photo, Name = Full Name).
+- Social Media Section: Users can add usernames for LinkedIn, Twitter (X), Instagram, TikTok, YouTube, Facebook, Snapchat, Telegram, Pinterest, WhatsApp.
+- Each platform displayed with official icons.
+- Toggle visibility on/off for each platform.
+- Two QR code modes:
+  1. Full Social Card
+  2. Minimal Card (only selected fields)
+- Generated QR codes are shown in a carousel, visitors can scan whichever they want.
+- Visitors see read-only version of the card.
+- Footer: "Powered by Ravenkart" with a link to our homepage.
+
